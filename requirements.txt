@@ -4,3 +4,4 @@ xgboost
 streamlit
 spacy
 nltk
+plotly
